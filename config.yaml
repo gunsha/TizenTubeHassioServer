@@ -1,0 +1,11 @@
+name: TizenTube server
+version: 1
+slug: tizen_tube
+description: server for tizen tube.
+arch:
+  - armhf
+  - armv7
+  - aarch64
+url: https://github.com/reisxd/TizenTube
+ports:
+  3000/tcp: 3000
